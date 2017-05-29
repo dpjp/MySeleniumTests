@@ -1,0 +1,11 @@
+2017-05-29 14:20:09,359 INFO  [HomePageTest] In WebDriver initialization Method 
+2017-05-29 14:20:28,994 INFO  [HomePageTest] Launching Firefox WebDriver 
+2017-05-29 14:20:29,141 INFO  [HomePageTest] Navigating to Basspro.com site 
+2017-05-29 14:20:46,983 INFO  [HomePageTest] Website Launched Successfully 
+2017-05-29 14:20:46,986 INFO  [HomePage] Entering into Function - lnk_signIn 
+2017-05-29 14:20:47,659 INFO  [HomePage] [[FirefoxDriver: firefox on ANY (acd0d73f-0208-4db4-bbe4-4f526ad91b70)] -> link text: Sign In] is displayed successfully 
+2017-05-29 14:20:48,067 INFO  [HomePageTest] Clicked on Sign In link in the homePage 
+2017-05-29 14:20:48,069 INFO  [HomePageTest] Perform Right Click Operation 
+2017-05-29 14:20:50,071 INFO  [HomePageTest] Right click Operation Performed Successfully 
+2017-05-29 14:20:50,092 INFO  [HomePageTest] Entered into TearDown Method to kill browser 
+2017-05-29 14:20:53,531 INFO  [HomePageTest] Browser closed Successfully 
